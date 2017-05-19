@@ -1,6 +1,7 @@
 # Geo
 
 **Geo** is a timeless [Twitter Bootstrap](http://twitter.github.com/bootstrap) theme built for the modern web.
+NOTE: This fork is for demo purposes... http://code.divshots.com/geo-bootstrap would not load in an iframe when trying to show it on a GH-Pages site in a Github Enterprise session that insists on https.  So forked this to get GH Pages to rebuild for me and have the github.io https source.
 
 ## Usage
 
